@@ -1,0 +1,62 @@
+h1 {
+    color: #9900ff;
+    font-size: 60px;
+     font-weight: 100;
+    font-style: italic;
+   
+    
+}
+h1 {
+     font-family:"VeronikaSantini";
+}
+@font-face {
+   font-family: VeronikaSantini;
+   src: url("font/VeronikaSantini.ttf");
+}
+
+
+.nav{
+     list-style-type: none;
+     overflow: hidden;
+   
+}
+
+body  {
+       background-color: #EEE8AA;
+}
+
+
+.nav li{
+        float: left;
+}
+
+.nav li a{
+          display: block;
+          color: rgb(153, 102, 255);
+          text-align: center;
+          font-family: Garamond, serif;
+          font-size: 15px;
+          padding: 14px 16px;
+          text-decoration:underline;
+          background-color:yellowgreen;
+          border-radius: 50px;
+}
+h2{
+    font-family: "Sofia", sans-serif;
+    color: darkslategray;
+    background-color: plum;
+    font-weight: 700;}
+
+    p{
+        font-family: Garamond, serif;
+        font-size: large;
+        font-weight: 100;
+        background-color: rgb(221, 160, 221);
+    }
+
+    h3{
+        font-size: 25px;
+        background-color: aliceblue;
+        font-family: "Sofia", sans-serif;
+    }
+
